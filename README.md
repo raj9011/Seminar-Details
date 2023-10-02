@@ -4,7 +4,7 @@
 - Cyber Attacks affecting elements of Electric Vehicles including battery life , motor drives , IoT embeded systems .
 - Supervisory Control and Data Acquisition , Industrial Control System .
 - General algorithm cannot detect attacks on EVs with satisfied output .
-- Attackers gain illegal access on electric drive system we can detect signal hampering at early stage and prevent it .
+- Attackers gain illegal access on electric drive system (EDS) we can detect signal hampering at early stage and prevent it .
 
 ## Literature Survey
 - New type of architecture system presented importance of battery health in EVs and the algorithms for optimizing it .
