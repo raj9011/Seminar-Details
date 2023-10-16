@@ -46,14 +46,14 @@ CAN Flexible Data-Rate (CAN FD) can be used in electric vehicles which will give
   - Confusion Matrix :
 
 
-                            Normal      Attack                                                 Normal        Attack
-                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -
-                 Normal   -   9177    -    13     -                                 Normal  -   9188    -    2      -
-                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -                 
-                 Attack   -   1273    -    1074   -                                 Attack  -   49      -    2298   -          
-                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -
+                            Normal      Attack                                        Normal        Attack
+                          -  -  -  -  -  -  -  -  -                                -  -  -  -  -  -  -  -  -
+                 Normal   -   9177    -    13     -                        Normal  -   9188    -    2      -
+                          -  -  -  -  -  -  -  -  -                                -  -  -  -  -  -  -  -  -                 
+                 Attack   -   1273    -    1074   -                        Attack  -   49      -    2298   -          
+                          -  -  -  -  -  -  -  -  -                                -  -  -  -  -  -  -  -  -
 
-                                  Pure Data                                                      Physics- Guided
+                                  Pure Data                                             Physics- Guided
 
    - LSTM Network Accuracy - 98.4 %
 
