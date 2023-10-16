@@ -46,14 +46,14 @@ CAN Flexible Data-Rate (CAN FD) can be used in electric vehicles which will give
   - Confusion Matrix :
 
 
-                            Normal      Attack                                                           Normal        Attack
-                          -  -  -  -  -  -  -  -  -                                                   -  -  -  -  -  -  -  -  -
-                 Normal   -   9177    -    13     -                                           Normal  -   9188    -    2      -
-                          -  -  -  -  -  -  -  -  -                                                   -  -  -  -  -  -  -  -  -                 
-                 Attack   -   1273    -    1074   -                                           Attack  -   49      -    2298   -          
-                          -  -  -  -  -  -  -  -  -                                                   -  -  -  -  -  -  -  -  -
+                            Normal      Attack                                                 Normal        Attack
+                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -
+                 Normal   -   9177    -    13     -                                 Normal  -   9188    -    2      -
+                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -                 
+                 Attack   -   1273    -    1074   -                                 Attack  -   49      -    2298   -          
+                          -  -  -  -  -  -  -  -  -                                         -  -  -  -  -  -  -  -  -
 
-                                  Pure Data                                                                Physics- Guided
+                                  Pure Data                                                      Physics- Guided
 
    - LSTM Network Accuracy - 98.4 %
 
@@ -64,6 +64,6 @@ CAN Flexible Data-Rate (CAN FD) can be used in electric vehicles which will give
    - Flexray
 
   ## Conclusion
-   - With the use of currently available tools and techniques, future study on the security of data and communication in the EVs infrastructure can be conducted. The machine learning           algorithm technique proposed can predict attacks at early stage from getting it to severe .
+   - With the use of currently available tools and techniques, future study on the security of data and communication in the EVs infrastructure can be conducted. The machine learning           algorithm technique proposed can predict attacks at early stage from getting it to severe thats key advantage .
 
   
